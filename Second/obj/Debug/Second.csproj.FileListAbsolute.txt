@@ -1,0 +1,9 @@
+D:\Учёба\Разработка программных модулей\Second\Second\bin\Debug\Second.exe.config
+D:\Учёба\Разработка программных модулей\Second\Second\bin\Debug\Second.exe
+D:\Учёба\Разработка программных модулей\Second\Second\bin\Debug\Second.pdb
+D:\Учёба\Разработка программных модулей\Second\Second\obj\Debug\Second.Form1.resources
+D:\Учёба\Разработка программных модулей\Second\Second\obj\Debug\Second.Properties.Resources.resources
+D:\Учёба\Разработка программных модулей\Second\Second\obj\Debug\Second.csproj.GenerateResource.cache
+D:\Учёба\Разработка программных модулей\Second\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+D:\Учёба\Разработка программных модулей\Second\Second\obj\Debug\Second.exe
+D:\Учёба\Разработка программных модулей\Second\Second\obj\Debug\Second.pdb
